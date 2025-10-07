@@ -1,0 +1,16 @@
+{
+  "app": "HexPatcher",
+  "channel": "stable",
+  "version": "1.1.0",
+  "published_at": "2025-10-07T00:00:00Z",
+  "notes": "Thêm tính năng tự động cập nhật và sửa một số lỗi nhỏ.",
+  "files": [
+    {
+      "os": "windows",
+      "arch": "x64",
+      "url": "https://github.com/<tên-tài-khoản>/<repo-update>/releases/download/v1.1.0/HexPatcher-1.1.0.exe",
+      "sha256": "thay_bằng_chuỗi_sha256_thật",
+      "size": 12345678
+    }
+  ]
+}
